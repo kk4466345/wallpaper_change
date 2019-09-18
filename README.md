@@ -1,20 +1,26 @@
-#wallpaper_change
+## wallpaper_change
 
 change wallpaper after a fix time
 
-for Ubuntu gnome user (default ubuntu) --
+## Installation
 
+# for Ubuntu gnome user (default ubuntu) --
+```bash
 chmod +x index.sh
+```
 
+```bash
 ./index.sh
+```
 
 
 
 
+# for ubuntu mate users
 
-for ubuntu mate users
-
+```bash
 chmod +x index2.sh
-
+```
+```bash
 ./index2.sh
-
+```
