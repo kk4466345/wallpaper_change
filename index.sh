@@ -6,7 +6,7 @@ num2=1
 num=`expr $num1 + $num2`  
 sleep 3.0
 kkm=$(ls $num.*)
-/usr/bin/gsettings set org.gnome.desktop.background picture-uri file:///$(pwd)/$kkm
+/usr/bin/gsettings set org.mate.desktop.background picture-uri file:///$(pwd)/$kkm
 echo $kkm
         if [ $num -eq 7 ]
         then
